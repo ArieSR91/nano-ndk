@@ -1,0 +1,2 @@
+include "/system/usr/share/nano/*.nanorc"
+include "/system/usr/share/nano/extra/*.nanorc"
